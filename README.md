@@ -14,3 +14,6 @@
 - git | GitHub
 - Notion, Notion API
 - Firebase
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhonara12&show_icons=true&theme=radical)
