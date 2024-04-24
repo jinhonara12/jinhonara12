@@ -20,5 +20,6 @@
 - git | GitHub
 - Notion, Notion API
 - Firebase
+- React, Next.js
 
 
